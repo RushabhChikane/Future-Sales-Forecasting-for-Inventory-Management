@@ -5,3 +5,5 @@ and predict future demand accurately. For presenting the results, data visualiza
 to provide clear insights into sales forecasts and potential inventory challenges. These insights support
 informed decision- making, helping to minimize stockouts, reduce excess inventory, and align sales strategies
 with anticipated demand.
+
+Tableau : https://public.tableau.com/app/profile/rushabh.c2385/viz/PredictFutureSales_17235709375430/DualLine
